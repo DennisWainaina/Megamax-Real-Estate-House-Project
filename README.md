@@ -16,19 +16,19 @@ This README.md document provides an overview of the project and its main segment
 
 Thank you for visiting my GitHub repository for the Megamax Real Estate Agency project. Let's dive into the analysis and explore the relationship between home renovations and sale prices!
 
-## 2. OBJECTIVES
+## OBJECTIVES
 The objectives of the project are:
 - To determine how rennovations affect the saleprice of the home of a potential sellor.
 - To present findings and model to head of division so that the head may use the insights generated to advise potential sellors(clients).
 
-## 3. BUSINESS UNDERSTANDING
+## BUSINESS UNDERSTANDING
 #### 3.1 PROBLEM STATEMENT
 To determine the effect of home rennovations on the saleprice of a home. This is to help Megamax Real Estate Agency in making informed decisions to potential sellors of homes who are their clients.
 
 #### 3.2 MEASUREMENT OF SUCCESS
 The goal is to determine the effect of home rennovations on the saleprice of homes. The measure of success will therefore be after analysis has been done and insights generated,findings should be presented to the head of the new divisions who will use both to advise new sellors appropiately.
 
-## 4. DATA UNDERSTANDING
+## DATA UNDERSTANDING
 For the problem at hand the data used to see the effect of rennovations on the price of houses was the King County House Sales dataset. This dataset was sourced from Kaggle and is relevant to the problem at hand as it contains data about relevant features of houses together with the price of such homes. These features are in the form of columns in a dataframe and they include:
 
 - **Price** : This is the target(dependent) variable and is what we want to see the effect of rennovations on.
