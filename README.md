@@ -13,9 +13,6 @@ This README.md document provides an overview of the project and its main segment
 2. [BUSINESS UNDERSTANDING](#business-understanding)
 3. [DATA UNDERSTANDING](#data-understanding)
 4. [DATA PREPARATION](#data-preparation)
-5. [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
-6. [CONCLUSION](#Conclusion)
-7. [RECOMMENDATION](#Recommendation)
 
 Thank you for visiting my GitHub repository for the Megamax Real Estate Agency project. Let's dive into the analysis and explore the relationship between home renovations and sale prices!
 
