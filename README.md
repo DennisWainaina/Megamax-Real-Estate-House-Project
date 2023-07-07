@@ -2,9 +2,22 @@
 ![image](https://github.com/DennisWainaina/Phase_2_final_project/assets/116555573/27b2e879-a805-4d51-a294-7fb46e1a538a)
 
 ## 1. INTRODUCTION
-**Megamax Real Estate Agency** a well known Real Estate Agency in New York has decided to start a new division which connects home sellors to potential buyers for a small fee. It wants to find out how home rennovations may affect the **saleprices** of the homes of potential sellors. This is to advise potential sellors appropiately, to increase market appeal of their houses.
+**Welcome to my GitHub repository for the Megamax Real Estate Agency project!** 
 
-**Megamax Real Estate Agency** has decided to hire you as a Data Scientist to predict how rennovations may affect the price of a house. After analysis, you are to present your findings and insights to the head of the new division, who will use both to see how rennovations will affect the saleprice of the home of a potential sellor.
+In this project, we aim to analyze how home renovations can impact the sale prices of houses. Megamax Real Estate Agency, a prominent agency in New York, has initiated a new division that connects home sellers with potential buyers. To assist their clients in making informed decisions and increasing the market appeal of their properties, they want to understand the effects of renovations on sale prices.
+
+As a Data Scientist, I was hired by Megamax Real Estate Agency to predict the impact of renovations on house prices. Through comprehensive analysis and modeling, I will present my findings and insights to the head of the new division. These insights will enable the division to advise potential sellers effectively and provide guidance on how renovations can influence the sale price of their homes.
+
+This README.md document provides an overview of the project and its main segments:
+1. [OBJECTIVES](#Objectives)
+2. [BUSINESS UNDERSTANDING](#business-understanding)
+3. [DATA UNDERSTANDING](#data-understanding)
+4. [DATA PREPARATION](#data-preparation)
+5. [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+6. [CONCLUSION](#Conclusion)
+7. [RECOMMENDATION](#Recommendation)
+
+Thank you for visiting my GitHub repository for the Megamax Real Estate Agency project. Let's dive into the analysis and explore the relationship between home renovations and sale prices!
 
 ## 2. OBJECTIVES
 The objectives of the project are:
